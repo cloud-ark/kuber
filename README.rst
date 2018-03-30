@@ -2,7 +2,7 @@
 Kuber
 ======
 
-A complimentary deployer that hides complexities of Kubernetes and turns your Docker setup into a Kubernetes developer workspace.
+A deployer that hides complexities of Kubernetes and turns your Docker setup into a Kubernetes developer workspace.
 
 
 **Application-centric abstractions**
