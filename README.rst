@@ -1,9 +1,8 @@
-==========
-ArkDeploy
-==========
+======
+Kuber
+======
 
-A complimentary deployer that hides complexities of Kubernetes and turns your Docker setup into a Kubernetes
-developer workspace.
+A complimentary deployer that hides complexities of Kubernetes and turns your Docker setup into a Kubernetes developer workspace.
 
 
 **Application-centric abstractions**
@@ -30,4 +29,4 @@ Following two commands enable application deployment without having to learn com
 - cld app deploy -f app.yaml
 
 
-Check https://github.com/cloud-ark/caastle for installation and usage examples.
+Check https://github.com/cloud-ark/caastle for installation for GKE and usage examples.
